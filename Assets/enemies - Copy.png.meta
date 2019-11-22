@@ -1,0 +1,1294 @@
+fileFormatVersion: 2
+guid: 0c7b983e5aaa43b49813d483f7ae22f8
+timeCreated: 1524300788
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: enemies - Copy_0
+    21300002: enemies - Copy_1
+    21300004: enemies - Copy_2
+    21300006: enemies - Copy_3
+    21300008: enemies - Copy_4
+    21300010: enemies - Copy_5
+    21300012: enemies - Copy_6
+    21300014: enemies - Copy_7
+    21300016: enemies - Copy_8
+    21300018: enemies - Copy_9
+    21300020: enemies - Copy_10
+    21300022: enemies - Copy_11
+    21300024: enemies - Copy_12
+    21300026: enemies - Copy_13
+    21300028: enemies - Copy_14
+    21300030: enemies - Copy_15
+    21300032: enemies - Copy_16
+    21300034: enemies - Copy_17
+    21300036: enemies - Copy_18
+    21300038: enemies - Copy_19
+    21300040: enemies - Copy_20
+    21300042: enemies - Copy_21
+    21300044: enemies - Copy_22
+    21300046: enemies - Copy_23
+    21300048: enemies - Copy_24
+    21300050: enemies - Copy_25
+    21300052: enemies - Copy_26
+    21300054: enemies - Copy_27
+    21300056: enemies - Copy_28
+    21300058: enemies - Copy_29
+    21300060: enemies - Copy_30
+    21300062: enemies - Copy_31
+    21300064: enemies - Copy_32
+    21300066: enemies - Copy_33
+    21300068: enemies - Copy_34
+    21300070: enemies - Copy_35
+    21300072: enemies - Copy_36
+    21300074: enemies - Copy_37
+    21300076: enemies - Copy_38
+    21300078: enemies - Copy_39
+    21300080: enemies - Copy_40
+    21300082: enemies - Copy_41
+    21300084: enemies - Copy_42
+    21300086: enemies - Copy_43
+    21300088: enemies - Copy_44
+    21300090: enemies - Copy_45
+    21300092: enemies - Copy_46
+    21300094: enemies - Copy_47
+    21300096: enemies - Copy_48
+    21300098: enemies - Copy_49
+    21300100: enemies - Copy_50
+    21300102: enemies - Copy_51
+    21300104: enemies - Copy_52
+    21300106: enemies - Copy_53
+    21300108: enemies - Copy_54
+    21300110: enemies - Copy_55
+    21300112: enemies - Copy_56
+    21300114: enemies - Copy_57
+    21300116: enemies - Copy_58
+    21300118: enemies - Copy_59
+    21300120: enemies - Copy_60
+    21300122: enemies - Copy_61
+    21300124: enemies - Copy_62
+    21300126: enemies - Copy_63
+    21300128: enemies - Copy_64
+    21300130: enemies - Copy_65
+    21300132: enemies - Copy_66
+    21300134: enemies - Copy_67
+    21300136: enemies - Copy_68
+    21300138: enemies - Copy_69
+    21300140: enemies - Copy_70
+    21300142: enemies - Copy_71
+    21300144: enemies - Copy_72
+    21300146: enemies - Copy_73
+    21300148: enemies - Copy_74
+    21300150: enemies - Copy_75
+    21300152: enemies - Copy_76
+    21300154: enemies - Copy_77
+    21300156: enemies - Copy_78
+    21300158: enemies - Copy_79
+    21300160: enemies - Copy_80
+    21300162: enemies - Copy_81
+    21300164: enemies - Copy_82
+    21300166: enemies - Copy_83
+    21300168: enemies - Copy_84
+    21300170: enemies - Copy_85
+    21300172: enemies - Copy_86
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 20
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemies - Copy_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 349
+        width: 38
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_1
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 349
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_2
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 349
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 348
+        width: 29
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_4
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 349
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_5
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 349
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_6
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 348
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_7
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 349
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_8
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 349
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_9
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 349
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_10
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 349
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_11
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 348
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_12
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 299
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_13
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 299
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_14
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 299
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_15
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 299
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_16
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 299
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 299
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 299
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_19
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 299
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_20
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 299
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 299
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_22
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 299
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_23
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 299
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_24
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 249
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_25
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 248
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_26
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 249
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_27
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 249
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_28
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 249
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_29
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 249
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_30
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 249
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_31
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 249
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_32
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 249
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_33
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 249
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_34
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 249
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_35
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 249
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_36
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 199
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_37
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 199
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 199
+        width: 38
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_39
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 199
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_40
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 199
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_41
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 199
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_42
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 149
+        width: 34
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_43
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 0
+        width: 40
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_44
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 38
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_45
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 199
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_46
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 199
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_47
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 199
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_48
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 149
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_49
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 148
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 148
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_51
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 148
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_52
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 148
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_53
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 149
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_54
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 148
+        width: 26
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_55
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 149
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_56
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 149
+        width: 29
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_57
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 99
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_58
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 99
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_59
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 99
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 99
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_61
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 99
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_62
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 99
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_63
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 99
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_64
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 99
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_65
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 99
+        width: 36
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_66
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 99
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_67
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 48
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_68
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 49
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_69
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 48
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_70
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 49
+        width: 32
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_71
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 49
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_72
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 49
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_73
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 49
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_74
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 49
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_75
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 49
+        width: 37
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_76
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 49
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_77
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 0
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_79
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 30
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_82
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 0
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_83
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 0
+        width: 36
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_84
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 0
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_85
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 0
+        width: 33
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: enemies - Copy_86
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 0
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
